@@ -1,4 +1,4 @@
-# https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-120
+
 
 import pyttsx3  # it is a text-to-speech library.
 import datetime
